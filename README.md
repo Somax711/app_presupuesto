@@ -1,9 +1,3 @@
-¡Perfecto\! Aquí tienes el archivo `README.md` completo para tu proyecto `app_presupuesto`.
-
-He creado secciones claras y un formato fácil de leer para que cualquier persona que visite tu repositorio entienda rápidamente de qué se trata, cómo funciona y cómo puede usarlo.
-
------
-
 # `app_presupuesto` 💰
 
 `app_presupuesto` es una aplicación de escritorio diseñada para ayudarte a gestionar tus finanzas personales de manera sencilla y eficiente. Te permite registrar tus ingresos y gastos, visualizar el estado de tu presupuesto en tiempo real y tener un mejor control de tus hábitos financieros.
