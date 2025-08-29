@@ -53,9 +53,3 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local.
 ### Licencia 📄
 
 Este proyecto está bajo la Licencia MIT.
-
------
-
-He asumido que el archivo principal para ejecutar el proyecto se llama `main.py`. Si es diferente, solo necesitas cambiar esa parte en la sección de instalación.
-
-¿Qué te parece? ¿Necesitas que lo ajuste o que te ayude con el `README` de otro proyecto?
