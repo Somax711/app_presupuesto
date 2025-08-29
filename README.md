@@ -1,40 +1,67 @@
-app_presupuesto es una aplicación de escritorio diseñada para ayudarte a gestionar tus finanzas personales de manera sencilla y eficiente. 
-Te permite registrar tus ingresos y gastos, visualizar el estado de tu presupuesto en tiempo real y tener un mejor control de tus hábitos financieros.
+¡Perfecto\! Aquí tienes el archivo `README.md` completo para tu proyecto `app_presupuesto`.
 
-Características 
-Registro de transacciones: Añade ingresos y gastos fácilmente con categorías.
+He creado secciones claras y un formato fácil de leer para que cualquier persona que visite tu repositorio entienda rápidamente de qué se trata, cómo funciona y cómo puede usarlo.
 
-Gestión de presupuestos: Crea presupuestos para diferentes categorías y controla si te mantienes dentro de tus límites.
+-----
 
-Visualización de saldo: Un dashboard simple muestra tu balance actual y el estado de tu presupuesto.
+# `app_presupuesto` 💰
 
-Historial de movimientos: Revisa todas tus transacciones pasadas en un listado detallado.
+`app_presupuesto` es una aplicación de escritorio diseñada para ayudarte a gestionar tus finanzas personales de manera sencilla y eficiente. Te permite registrar tus ingresos y gastos, visualizar el estado de tu presupuesto en tiempo real y tener un mejor control de tus hábitos financieros.
 
-Tecnologías Utilizadas 
-Python: El lenguaje principal de programación para toda la lógica de la aplicación.
+-----
 
-SQLite: El sistema de base de datos ligero que se usa para almacenar toda la información del presupuesto, como transacciones y categorías.
+### Características ✨
 
-Instalación y Uso 
+  * **Registro de transacciones:** Añade ingresos y gastos fácilmente con categorías.
+  * **Gestión de presupuestos:** Crea presupuestos para diferentes categorías y controla si te mantienes dentro de tus límites.
+  * **Visualización de saldo:** Un dashboard simple muestra tu balance actual y el estado de tu presupuesto.
+  * **Historial de movimientos:** Revisa todas tus transacciones pasadas en un listado detallado.
+
+-----
+
+### Tecnologías Utilizadas 🛠️
+
+  * **Python:** El lenguaje principal de programación para toda la lógica de la aplicación.
+  * **SQLite:** El sistema de base de datos ligero que se usa para almacenar toda la información del presupuesto, como transacciones y categorías.
+
+-----
+
+### Instalación y Uso 🚀
+
 Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local.
 
-Clona el repositorio:
+1.  **Clona el repositorio:**
 
-Bash
+    ```bash
+    git clone https://github.com/Somax711/app_presupuesto.git
+    ```
 
-git clone https://github.com/Somax711/app_presupuesto.git
-Navega al directorio del proyecto:
+2.  **Navega al directorio del proyecto:**
 
-Bash
+    ```bash
+    cd app_presupuesto
+    ```
 
-cd app_presupuesto
-Ejecuta la aplicación:
+3.  **Ejecuta la aplicación:**
 
-Bash
+    ```bash
+    python main.py
+    ```
 
-python main.py
-Contribuciones 🤝
-¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una idea para una nueva característica, no dudes en abrir un issue o enviar un pull request.
+-----
 
-Licencia 📄
+### Contribuciones 🤝
+
+¡Las contribuciones son bienvenidas\! Si encuentras un error o tienes una idea para una nueva característica, no dudes en abrir un *issue* o enviar un *pull request*.
+
+-----
+
+### Licencia 📄
+
 Este proyecto está bajo la Licencia MIT.
+
+-----
+
+He asumido que el archivo principal para ejecutar el proyecto se llama `main.py`. Si es diferente, solo necesitas cambiar esa parte en la sección de instalación.
+
+¿Qué te parece? ¿Necesitas que lo ajuste o que te ayude con el `README` de otro proyecto?
